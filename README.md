@@ -17,7 +17,7 @@
 1. 点击右上角的 Fork 按钮
 2. 打开 [Vercel.com](https://vercel.com)，使用 GitHub 登录。
 3. 选择 New Project，点击 proxy-provider-converter 旁边的 Import 按钮, 点击 PERSONAL ACCOUNT 旁边的 Select，最后点击 Deploy
-4. 等待部署完成后点击 Vercel 项目面板上的 Visit 按钮就可以访问你部署的版本了
+4. 等待部署完成后点击 Vercel 项目面板上的 Visit 按钮就可以访问你部署的版本了 
 
 ### 资源
 
